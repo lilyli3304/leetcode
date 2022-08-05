@@ -1,4 +1,4 @@
-//66.Plus One
+//66. Plus One
 //作者：lilyyueli
 //链接：https://leetcode-cn.com/problems/plus-one/solution/spoiler-zi-ji-de-chu-shi-da-an-qiu-ping-3vhk4/
 //来源：力扣（LeetCode）
